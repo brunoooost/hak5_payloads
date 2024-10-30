@@ -1,53 +1,24 @@
-REM_BLOCK
-##################################
-#                                #
-# Title        : Disable WiFi    #
-# Author       : bst04 - Aleff   #
-# Version      : 1.0             #
-# Category     : Execution       #
-# Target       : MacOS           #
-#                                #
-##################################
-END_REM
+# Disable WiFi 🛜
 
-REM Change the #MODE value to "on" if you want to run the WiFi, else leave it as "off"
-DEFINE #MODE off
+This payload is designed to turn off the Wi-Fi on a MacOS system. To turn the Wi-Fi back on, simply modify the script to replace "off" with "on".
 
-EXTENSION DETECT_READY
-    REM VERSION 1.1
-    REM AUTHOR: Korben
+### Details
 
-    REM_BLOCK DOCUMENTATION
-        USAGE:
-            Extension runs inline (here)
-            Place at beginning of payload (besides ATTACKMODE) to act as dynamic
-            boot delay
+- **Title**: Disable WiFi
+- **Author**: bst04 - Aleff
+- **Version**: 1.0
+- **Category**: Execution
+- **Target**: MacOS
 
-        TARGETS:
-            Any system that reflects CAPSLOCK will detect minimum required delay
-            Any system that does not reflect CAPSLOCK will hit the max delay of 3000ms
-    END_REM
+### Dependencies
 
-    REM CONFIGURATION:
-    DEFINE #RESPONSE_DELAY 25
-    DEFINE #ITERATION_LIMIT 120
+- REM Change the #MODE value to "on" if you want to run the WiFi, else leave it as "off"
+   `DEFINE #MODE off`
 
-    VAR $C = 0
-    WHILE (($_CAPSLOCK_ON == FALSE) && ($C < #ITERATION_LIMIT))
-        CAPSLOCK
-        DELAY #RESPONSE_DELAY
-        $C = ($C + 1)
-    END_WHILE
-    CAPSLOCK
-END_EXTENSION
+## How It Works 📜
 
-REM Another pinch of delay in accordance with https://shop.hak5.org/blogs/usb-rubber-ducky/detect-ready
-DELAY 200
-
-GUI SPACE
-DELAY 250
-STRINGLN TERMINAL
-DELAY 250
-STRINGLN networksetup -setnetworkserviceenabled Wi-Fi #MODE
-DELAY 250
-GUI q
+1. Sets a user-defined modality (`#MODE`) to `on` or `off`.
+2. Uses an extension (`EXTENSION DETECT_READY`) to detect when the device is ready with just a littebit more delay...
+3. After readiness is confirmed, the script:
+   - Runs commands to open **Terminal**.
+   - Run or stop the WiFi
