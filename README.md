@@ -11,3 +11,4 @@ Some payloads for Hak5 I made with DuckyScript®. Please be aware that I've only
 |System|Category|Name|PAP|
 |--|--|--|--|
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|Execution|[Disable WiFi - MacOS](https://github.com/brunoooost/hak5_payloads/tree/main/execution/Disable%20WiFi%20-%20MacOS)|🟢|
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|Execution|[Exfiltrate Mac Address - MacOS](https://github.com/brunoooost/hak5_payloads/tree/main/execution/Exfiltrate_Mac_Address-MacOS)|🟢|
