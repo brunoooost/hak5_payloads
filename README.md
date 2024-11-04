@@ -14,6 +14,7 @@ Some payloads for Hak5 I made with DuckyScript®. Please be aware that I've only
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|Exfiltration|[Exfiltrate Mac Address - MacOS](https://github.com/brunoooost/hak5_payloads/tree/main/execution/Exfiltrate-Mac-Address-MacOS)|🟢|
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|Prank|[Spam Terminals - Windows](https://github.com/brunoooost/hak5_payloads/tree/main/prank/Windows-SpamTerminals)|🟢|
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|Prank|[Send-WhatsApp-Messages-MacOS](https://github.com/brunoooost/hak5_payloads/tree/main/prank/Send-WhatsApp-Messages-MacOS)|🟢|
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|Prank|[RickRoll Contact - iOS](https://github.com/brunoooost/hak5_payloads/tree/main/prank/RickRoll-Contact-iOS)|🟢|
 
 ## Colaborators
 - [@brunoooost](https://github.com/brunoooost/)
