@@ -5,7 +5,7 @@ Some payloads for Hak5 I made with DuckyScript®. Please be aware that I've only
 ## Number of Payloads
 |System|Number|
 |--|--|
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|**4**|
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|**5**|
 
 ## List of Payloads
 |System|Category|Name|PAP|
