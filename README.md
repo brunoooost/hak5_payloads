@@ -5,16 +5,18 @@ Some payloads for Hak5 I made with DuckyScript®. Please be aware that I've only
 ## Number of Payloads
 |System|Number|
 |--|--|
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|**5**|
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|**4**|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|**1**|
+
 
 ## List of Payloads
 |System|Category|Name|PAP|
 |--|--|--|--|
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|Execution|[Disable WiFi - MacOS](https://github.com/brunoooost/hak5_payloads/tree/main/execution/Disable%20WiFi%20-%20MacOS)|🟢|
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|Exfiltration|[Exfiltrate Mac Address - MacOS](https://github.com/brunoooost/hak5_payloads/tree/main/execution/Exfiltrate-Mac-Address-MacOS)|🟡|
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Spam Terminals - Windows](https://github.com/brunoooost/hak5_payloads/tree/main/prank/Windows-SpamTerminals)|🟢|
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|Prank|[Send-WhatsApp-Messages-MacOS](https://github.com/brunoooost/hak5_payloads/tree/main/prank/Send-WhatsApp-Messages-MacOS)|🟢|
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|Prank|[RickRoll Contact - iOS](https://github.com/brunoooost/hak5_payloads/tree/main/prank/RickRoll-Contact-iOS)|🟢|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Spam Terminals - Windows](https://github.com/brunoooost/hak5_payloads/tree/main/prank/Windows-SpamTerminals)|🟢|
 
 ## Colaborators
 - [@brunoooost](https://github.com/brunoooost/)
