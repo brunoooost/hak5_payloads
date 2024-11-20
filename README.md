@@ -6,7 +6,7 @@ Some payloads for Hak5 I made with DuckyScript®. Please be aware that I've only
 |System|Number|
 |--|--|
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|**3**|
-|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|**1**|
+|![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|**2**|
 |![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|**1**|
 
 
@@ -18,6 +18,7 @@ Some payloads for Hak5 I made with DuckyScript®. Please be aware that I've only
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|Prank|[Send-WhatsApp-Messages-MacOS](https://github.com/brunoooost/hak5_payloads/tree/main/prank/Send-WhatsApp-Messages-MacOS)|🟢|
 |![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|Prank|[RickRoll Contact - iOS](https://github.com/brunoooost/hak5_payloads/tree/main/prank/RickRoll-Contact-iOS)|🟢|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Prank|[Spam Terminals - Windows](https://github.com/brunoooost/hak5_payloads/tree/main/prank/Windows-SpamTerminals)|🟢|
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|Exfiltration|[Windows_Check_Battery](https://github.com/brunoooost/hak5_payloads/tree/main/exfiltration/Windows_Check_Battery)|🟢|
 
 ## Colaborators
 - [@brunoooost](https://github.com/brunoooost/)
