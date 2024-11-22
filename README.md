@@ -1,4 +1,4 @@
-# hak5_payloads for USB Rubber Ducky by bst04
+# myrubberducky-shits by bst04
 
 Some payloads for Hak5 I made with DuckyScript®. Please be aware that I've only tested them on my system, so they might contain errors. If you encounter any issues, I'd appreciate your feedback to help improve them.
 
