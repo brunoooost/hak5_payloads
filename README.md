@@ -8,7 +8,8 @@ Some payloads for Hak5 I made with DuckyScript®. Please be aware that I've only
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)|**5**|
 |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|**3**|
 |![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)|**1**|
-|Hack5 Accepted|**5**|
+|**Total Payloads**|**9**|
+|**Hack5** Payloads Accepted|**2**|
 
 
 ## List of Payloads
